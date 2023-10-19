@@ -1,6 +1,6 @@
 # Image Classifier for Udacity AI Programming with Python
 
-This project is part of the Udacity AI Programming with Python Nanodegree with AWS scholarship. It's an image classifier that allows users to train a deep learning model on a dataset of images and make predictions on new images using a trained model. The project consists of three main components: an HTML file (Jupyter Notebook), and two Python scripts for training and prediction for command line application.
+This project was created as part of Udacity's AI Programming with Python Nanodegree with AWS scholarship. It comprises of an image classifier that allows users to train a deep learning model on a dataset of images and make predictions on new images using a trained model. There are three main components of this project: an HTML file (Jupyter Notebook), and two Python scripts for training and prediction which form part of the command line application.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,17 +11,16 @@ This project is part of the Udacity AI Programming with Python Nanodegree with A
 
 ## Overview
 
-This project is a part of the Udacity AI Programming with Python Nanodegree and focuses on image classification using deep learning. It allows you to train a deep neural network to classify images into predefined categories. The project demonstrates your knowledge and skills in working with deep learning models, data preprocessing, and model evaluation.
+This project is a part of the Udacity AI Programming with Python Nanodegree and focuses on image classification using deep learning. It allows you to train a deep neural network to classify images into predefined categories. It demonstrates the application of the knowledge and skills acquired during the nanodegree program in working with deep learning models, data preprocessing, and model evaluation.
 
 ## Features
 
 - **Image Classification:** Train a deep learning model to classify images into categories.
-- **Visual Interface:** Use the provided HTML file to interact with the project.
 - **Command Line Interface:** Utilize the command-line Python scripts to train and predict.
 
 ## Instructions
 
-The project includes two main Python scripts created as command line applications: `train.py` for training the model and `predict.py` for making predictions. Here are detailed instructions for using the project:
+The project includes two main Python scripts created as command line applications: `train.py` for training the model and `predict.py` for making predictions. Here are the instructions for using the project:
 
 ### Command Line Application
 
@@ -57,8 +56,3 @@ The project requires the following dependencies:
 - NumPy
 - PIL (Pillow)
 - Jupyter Notebook (for interactive usage)
-
-You can install these dependencies using pip or conda as appropriate for your environment.
-
-
-
